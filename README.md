@@ -25,7 +25,7 @@ The project was developed as part of the Machine Learning (CSCI 6364) course at 
 ## Usage
 1. Run the script to train and evaluate the Fully Connected Network:
    ```bash
-   python hw3.py
+   python digit_classification.py
    ```
 
 3. View the outputs in the terminal or generated plots for further analysis.
