@@ -37,5 +37,5 @@ The project was developed as part of the Machine Learning (CSCI 6364) course at 
 
 ## Files in the Repository
 - `digit_classification.py`: Implementation of the Fully Connected Network.
-- `Report.pdf`: PDF for short summary of project and dataset.
+- `ML_Assignment3.pdf`: PDF for short summary of project and dataset.
 - `requirements.txt`: List of required Python libraries.
